@@ -1,0 +1,25 @@
+[2021_09_04 16:12:09] [Info] ::     ---- Script Execution Start ----
+[2021_09_04 16:12:09] [Info] :: Script version: 1.0.1
+[2021_09_04 16:12:09] [Info] :: Multi-factor authorization specified
+[2021_09_04 16:12:10] [Error] :: Could not connect to Azure AD service.
+One or more errors occurred. (Could not load type 'System.Security.Cryptography.SHA256Cng' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.): Could not load type 'System.Security.Cryptography.SHA256Cng' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.  
+Exiting
+[2021_09_04 16:12:10] [Info] :: Stack trace:: at <ScriptBlock>, C:\Users\aleardley\OneDrive - Microsoft\Documents\GitHub\WorkplaceAnalytics\Organisational Data\Generate-WpaOrganizationFile.ps1: line 439
+at <ScriptBlock>, <No file>: line 1
+[2021_09_04 16:15:50] [Info] ::     ---- Script Execution Start ----
+[2021_09_04 16:15:50] [Info] :: Script version: 1.0.1
+[2021_09_04 16:15:50] [Info] :: Multi-factor authorization specified
+[2021_09_04 16:15:50] [Error] :: Could not connect to Azure AD service.
+One or more errors occurred. (Could not load type 'System.Security.Cryptography.SHA256Cng' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.): Could not load type 'System.Security.Cryptography.SHA256Cng' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.  
+Exiting
+[2021_09_04 16:15:50] [Info] :: Stack trace:: at <ScriptBlock>, C:\Users\aleardley\OneDrive - Microsoft\Documents\GitHub\WorkplaceAnalytics\Organisational Data\Generate-WpaOrganizationFile.ps1: line 439
+at <ScriptBlock>, <No file>: line 1
+[2021_09_04 16:18:58] [Info] ::     ---- Script Execution Start ----
+[2021_09_04 16:18:58] [Info] :: Script version: 1.0.1
+[2021_09_04 16:18:58] [Info] :: Multi-factor authorization specified
+[2021_09_04 16:18:58] [Info] :: Connecting to Azure AD service
+[2021_09_04 16:18:58] [Error] :: Could not connect to Azure AD service.
+One or more errors occurred. (Could not load type 'System.Security.Cryptography.SHA256Cng' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.): Could not load type 'System.Security.Cryptography.SHA256Cng' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.  
+Exiting
+[2021_09_04 16:18:58] [Info] :: Stack trace:: at <ScriptBlock>, C:\Users\aleardley\OneDrive - Microsoft\Documents\GitHub\WorkplaceAnalytics\Organisational Data\Generate-WpaOrganizationFile.ps1: line 440
+at <ScriptBlock>, C:\Users\aleardley\OneDrive - Microsoft\Documents\GitHub\WorkplaceAnalytics\Organisational Data\Run.ps1: line 2
